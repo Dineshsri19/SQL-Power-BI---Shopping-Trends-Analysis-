@@ -20,9 +20,6 @@ To understand key shopping patterns such as:
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Full%20Data.png | Screenshot of the all data dashboard  |
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Female%20View.png | Screenshot of the only Female View |
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Male%20View.png | Screenshot of the only Male View |
-| `sql/shopping_analysis_queries.sql` | Optional: plain text SQL version of queries |
-
----
 
 ## 🛠️ Tools Used
 
@@ -35,14 +32,16 @@ To understand key shopping patterns such as:
 
 ## 📊 Power BI Dashboard
 
-**Main Dashboard – Page 6**  
+**Main Dashboard** 
 Highlights:
 - 📌 Interactive Slicers (Gender, Category, Season)
 - 📈 KPIs (Average Purchase, Spending Patterns)
 - 📊 Visuals (Bar, Pie, Cards, Line)
 - 🧠 User-driven filtering using buttons and bookmarks
 
-> ![Dashboard Screenshot](assets/dashboard_page6.png)
+> ![Dashboard Screenshot](![Full Data](https://github.com/user-attachments/assets/fdbc12b8-e0c7-415c-9033-69cc8cb1d3cb))
+> ![Dashboard Screenshot](![Female View](https://github.com/user-attachments/assets/9af23e96-2bbe-42fd-87a4-59695d91e77f))
+> ![Dashboard Screenshot](![Male View](https://github.com/user-attachments/assets/af393ee5-28d2-45cf-a8f7-be2c7fa602ca))
 
 ---
 
