@@ -15,7 +15,7 @@ To understand key shopping patterns such as:
 
 | File / Folder | Description |
 |---------------|-------------|
-|  | Power BI report file with all dashboards |
+| https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/shopping_trends.csv | Power BI report file with all dashboards |
 | `Shopping_SQL_Queries.docx` | Contains SQL queries used for preprocessing and insights |
 | `assets/dashboard_page6.png` | Screenshot of the main dashboard (Page 6) |
 | `sql/shopping_analysis_queries.sql` | Optional: plain text SQL version of queries |
