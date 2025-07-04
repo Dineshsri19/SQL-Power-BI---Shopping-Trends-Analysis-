@@ -81,7 +81,7 @@ Performed in **MySQL Workbench** using over 3,900 records with 15+ fields:
 For collaboration, feedback or questions:
 
 **Dinesh R.**  
-[LinkedIn](#) | [Email](#)
+[www.linkedin.com/in/dineshr1999](#) | [dineshsrirk@gmail.com](#)
 
 ---
 
