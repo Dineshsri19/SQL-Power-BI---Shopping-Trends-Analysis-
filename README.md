@@ -39,9 +39,9 @@ Highlights:
 - 📊 Visuals (Bar, Pie, Cards, Line)
 - 🧠 User-driven filtering using buttons and bookmarks
 
-> ![Dashboard Screenshot](![Full Data](https://github.com/user-attachments/assets/fdbc12b8-e0c7-415c-9033-69cc8cb1d3cb))
-> ![Dashboard Screenshot](![Female View](https://github.com/user-attachments/assets/9af23e96-2bbe-42fd-87a4-59695d91e77f))
-> ![Dashboard Screenshot](![Male View](https://github.com/user-attachments/assets/af393ee5-28d2-45cf-a8f7-be2c7fa602ca))
+> ![All Data Dashboard Screenshot](![Full Data](https://github.com/user-attachments/assets/fdbc12b8-e0c7-415c-9033-69cc8cb1d3cb))
+> ![Male Data Dashboard Screenshot](![Female View](https://github.com/user-attachments/assets/9af23e96-2bbe-42fd-87a4-59695d91e77f))
+> ![Female Data Dashboard Screenshot](![Male View](https://github.com/user-attachments/assets/af393ee5-28d2-45cf-a8f7-be2c7fa602ca))
 
 ---
 
