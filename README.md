@@ -72,7 +72,7 @@ Performed in **MySQL Workbench** using over 3,900 records with 15+ fields:
 1. Clone/download this repository
 2. Open the `.pbix` file in Power BI Desktop
 3. Explore SQL queries for preprocessing logic
-4. Interact with filters on Page 6 of the dashboard
+4. Interact with filters on Main Page of the dashboard
 
 ---
 
