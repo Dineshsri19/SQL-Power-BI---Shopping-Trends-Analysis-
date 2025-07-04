@@ -18,7 +18,7 @@ To understand key shopping patterns such as:
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/shopping_trends.csv | Power BI report file with all dashboards |
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Shopping_SQL_Queries.docx | Contains SQL queries used for preprocessing and insights |
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Full%20Data.png | Screenshot of the all data dashboard  |
-| https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Full%20Data.png | Screenshot of the only Female View |
+| https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Female%20View.png | Screenshot of the only Female View |
 | https://github.com/Dineshsri19/SQL-Power-BI---Shopping-Trends-Analysis-/blob/main/Male%20View.png | Screenshot of the only Male View |
 | `sql/shopping_analysis_queries.sql` | Optional: plain text SQL version of queries |
 
